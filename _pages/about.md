@@ -7,43 +7,28 @@ redirect_from:
   - /about.html
 ---
 
-My research interests include risk, reliability, and resilience analysis of natural hazards under climate change, leveraging interdisciplinary approaches such as remote sensing, geospatial modeling, data-driven and physics-based models.
+**My research interests include risk, reliability, and resilience analysis of natural hazards under climate change, leveraging interdisciplinary approaches such as remote sensing, geospatial modeling, data-driven and physics-based models.**
 
-A data-driven personal website
+Education
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+• University of Illinois Urbana-Champaign (UIUC)
+Visiting Ph.D. Student in Structural Engineering Advisor: Prof. Paolo Gardoni 12.2021 – Present
+• Shanghai Jiao Tong University (SJTU)
+Ph.D. in Geotechnical Engineering Advisor: Prof. Lulu Zhang 09.2017–03.2024
+• Southwest Petroleum University
+B.S. in Civil Engineering; GPA: 4.22/5.00 (ranking: 1/186) 09.2013–06.2017
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+[1]	Wei, X., Zhang, L.L.*, Luo, J.Y., Liu, D.S. A hybrid framework integrating physical model and convolutional neural network for regional landslide susceptibility mapping. Natural Hazards. 2021, 109: 471-497.
+[2]	Wei, X., Zhang, L.L.*, Gardoni, P., Chen, Y.M., Tan, L., Liu, D.S., Du, C.L., Li, H. Comparison of hybrid data-driven and physical models for landslide susceptibility mapping at regional scales. Acta Geotechnica. 2023, 18, 4453-4476.
+[3]	Wei, X., Gardoni, P., Zhang, L.L.*; Tan, L., Liu, D.S., Du, C.L., Li, H. Improving pixel-based regional landslide susceptibility mapping. Geoscience Frontiers. 2024, 15(4), 101782. 10.1016/j.gsf.2024.101782
+[4]	Wei, X., Zhang, L.L.*, Yang, H.Q., Zhang L.M., Yao Y.P. Machine learning for pore-water pressure time-series prediction: Application of recurrent neural networks. Geoscience Frontiers, 2021 (12), 453-467. 
+[5]	Wei, X., Li, H., Gardoni, P., Zhang, L.L. Comparison of hybrid models based on the infinite slope stability analysis and different data-driven approaches for regional landslide susceptibility mapping, In Geo-Risk 2023: Geotechnical Risk Assessment and Management, 32-41. 
+[6]	Chen, Y.M., Zhang, L.L.*, Wei, X., Xu, J.B., Fu, S.X., Liao, C.C. Debris-flow-induced damage assessment for a submarine pipeline network in regional-scale natural terrain. Engineering Geology. 2022, 311, 106917.
+[7]	Chen, Y.M., Zhang, L.L.*, Wei, X., Jiang, M.J., Liao, C.C., Kou, H.L., Simulation of runout behavior of submarine debris flows over regional natural terrain considering material softening. Marine Georesources and Geotechnology. 2023: 41(2), 175-194. 
+[8]	Luo, J.Y., Zhang, L.L.*, Yang, H.Q., Wei, X., Liu D.S., Xu, J.B. Probabilistic model calibration of spatial variability for a physically-based landslide susceptibility model. Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, 2022: 16(4), 728-745.
+[9]	Zhu, C.J., Zhang, L.L., Liao, C.C.*, Wei, X., Ye, G.L. Estimation of horizontal bearing capacity of mat foundation on structured and over-consolidated clays under cyclic wave loads. Soil Dynamics and Earthquake Engineering. 2022, 161, 107426. 
+[10]	Cui, Q., Zhang, L.L.*, Chen, X.Y., Cao, Z.J., Wei, X., Zhang, J., Xu, J.B., Liu, D.S., Du, C.L. Quantitative risk assessment of landslides with direct simulation of pre-failure to post-failure behaviors. Acta Geotechnica. 2022, 17, 4497-4514.
+[11]	吴芳, 张璐璐*, 郑文棠, 魏鑫. 基于随机多项式展开的流固耦合非饱和土坡概率反分析, 岩土工程学报, 2018, 40 (12): 2215-2222. 
+[12]	Zhang, L.L. *, Wu, F., Wei, X., Yang, H.Q., Fu, S.X., Huang, J.S., Gao, L. Polynomial chaos surrogate and bayesian learning for coupled hydro-mechanical behavior of soil slope, Rock Mechanics Bulletin, 2023, 2(1): 100023.
