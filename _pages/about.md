@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-• **University of Illinois Urbana-Champaign (UIUC)**<br>
+• **University of Illinois Urbana-Champaign (UIUC)** <br>
 &nbsp;&nbsp;&nbsp;Visiting Scholar in Structural Engineering&nbsp;&nbsp;&nbsp;Advisor: Prof. Paolo Gardoni&nbsp;&nbsp;&nbsp;12.2021 – Present<br>
-• **Shanghai Jiao Tong University** (SJTU)<br>
+• **Shanghai Jiao Tong University (SJTU)** <br>
 &nbsp;&nbsp;&nbsp;Ph.D. in Geotechnical Engineering&nbsp;&nbsp;&nbsp;Advisor: Prof. Lulu Zhang&nbsp;&nbsp;&nbsp;09.2017–03.2024<br>
 • **Southwest Petroleum University**<br>
 &nbsp;&nbsp;&nbsp;B.S. in Civil Engineering&nbsp;&nbsp;&nbsp;GPA: 4.22/5.00 (ranking: 1/186)&nbsp;&nbsp;&nbsp;09.2013–06.2017<br>
