@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-**My research interests include risk, reliability, and resilience analysis of natural hazards under climate change, leveraging interdisciplinary approaches such as remote sensing, geospatial modeling, data-driven and physics-based models.**
+****My research interests include risk, reliability, and resilience analysis of natural hazards under climate change, leveraging interdisciplinary approaches such as remote sensing, geospatial modeling, data-driven and physics-based models.****
 
 Education
 ======
 • **University of Illinois Urbana-Champaign (UIUC)**<br>
-&nbsp;&nbsp;&nbsp;Visiting Ph.D. Student in Structural Engineering&nbsp;&nbsp;&nbsp;Advisor: Prof. Paolo Gardoni&nbsp;&nbsp;&nbsp;12.2021 – Present<br>
+&nbsp;&nbsp;&nbsp;Visiting Scholar in Structural Engineering&nbsp;&nbsp;&nbsp;Advisor: Prof. Paolo Gardoni&nbsp;&nbsp;&nbsp;12.2021 – Present<br>
 • **Shanghai Jiao Tong University** (SJTU)<br>
 &nbsp;&nbsp;&nbsp;Ph.D. in Geotechnical Engineering&nbsp;&nbsp;&nbsp;Advisor: Prof. Lulu Zhang&nbsp;&nbsp;&nbsp;09.2017–03.2024<br>
 • **Southwest Petroleum University**<br>
