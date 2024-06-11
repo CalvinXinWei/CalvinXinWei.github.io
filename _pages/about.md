@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-****My research interests include risk, reliability, and resilience analysis of natural hazards under climate change, leveraging interdisciplinary approaches such as remote sensing, geospatial modeling, data-driven and physics-based models.****
+My research interests include risk, reliability, and resilience analysis of natural hazards under climate change, leveraging interdisciplinary approaches such as remote sensing, geospatial modeling, data-driven and physics-based models.
 
 Education
 ======
